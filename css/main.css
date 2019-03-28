@@ -28,6 +28,7 @@ h1 {
 h2 {
     font-size: 1.5em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: rgb(250,250,250);
 }
 p {
     font-size: 1.0em;
